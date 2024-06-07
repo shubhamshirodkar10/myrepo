@@ -1,0 +1,3 @@
+version 1
+
+Legends are stories which are thought to be based on true events, but have developed fictional elements.
